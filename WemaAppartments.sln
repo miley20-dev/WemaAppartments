@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WemaAppartments", "WemaAppartments.csproj", "{FADACEE8-F090-46E4-B3D8-2361CD6CB1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayintro", "..\arrayintro\arrayintro.csproj", "{C6396702-18B2-4CC6-83BC-02D48E5E88F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADACEE8-F090-46E4-B3D8-2361CD6CB1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADACEE8-F090-46E4-B3D8-2361CD6CB1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADACEE8-F090-46E4-B3D8-2361CD6CB1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADACEE8-F090-46E4-B3D8-2361CD6CB1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6396702-18B2-4CC6-83BC-02D48E5E88F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6396702-18B2-4CC6-83BC-02D48E5E88F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6396702-18B2-4CC6-83BC-02D48E5E88F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6396702-18B2-4CC6-83BC-02D48E5E88F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790B84F8-6D5B-4710-87DD-6C388731AF37}
+	EndGlobalSection
+EndGlobal
